@@ -1,2 +1,2 @@
-# image classification
+# Image Classification
 image classification learning
